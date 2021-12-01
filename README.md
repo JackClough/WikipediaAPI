@@ -25,3 +25,7 @@ A:
 **Note**: I have `cmlimit` set to 10 so you can test your code. It can be set as high as 500, 
 as the [documentation](https://www.mediawiki.org/wiki/API:Categorymembers) 
 mentions. You should probably crank it up when you go for your "final" pull. 
+
+## Feedback
+
+Above I ask which year has the most names and how many names it had. Did you answer that question somewhere? 
